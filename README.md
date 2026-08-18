@@ -10,6 +10,7 @@ Performance optimization and bug fixing are my top priorities right now.
 I want to make sure that the user experience is smooth and flawless.
 The initial test results are looking highly positive and encouraging.
 I am also fine-tuning the design and overall presentation.
+Every little detail is being carefully checked before the big day.
 <!--
 **sakibul009/sakibul009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
