@@ -29,9 +29,9 @@ A responsive user interface is being built to support all mobile devices.
 Cross-browser compatibility is currently under review and testing.
 ## 🛠️ Key Features Under Development
 * Feature 1: Fast loading times and optimized backend structure.
-* * Feature 2: Clean, minimalistic, and modern dashboard design.
-* * Feature 3: Real-time data tracking and automated analytics.
-  * * Feature 4: Comprehensive error logging and debugging tools.
+* Feature 2: Clean, minimalistic, and modern dashboard design.
+* Feature 3: Real-time data tracking and automated analytics.
+* Feature 4: Comprehensive error logging and debugging tools.
 <!--
 **sakibul009/sakibul009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
