@@ -6,6 +6,7 @@ My main goal is to create something genuinely useful and high-quality.
 Currently, the core development phase is successfully completed.
 Now, the project has officially entered the intensive testing phase.
 I am rigorously testing every feature to ensure everything works perfectly.
+Performance optimization and bug fixing are my top priorities right now.
 <!--
 **sakibul009/sakibul009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
