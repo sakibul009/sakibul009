@@ -23,6 +23,7 @@ Stay tuned for the official announcement and live preview link!
 *Status: Active Testing & Optimization under progress...*
 ## 🗺️ Project Roadmap & Future Plans
 In the upcoming weeks, I will be focused on expanding the core functionalities.
+I plan to integrate multiple third-party API services for better efficiency.
 <!--
 **sakibul009/sakibul009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
