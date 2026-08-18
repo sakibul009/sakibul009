@@ -41,6 +41,7 @@ I am also looking forward to collaborating with other open-source enthusiasts.
 The Alpha version is expected to be rolled out by the end of this year.
 Beta testing with a limited group of users will follow immediately after.
 The stable, production-ready version 1.0 will be deployed shortly.
+I will update the live deployment link right here in this README file.
 <!--
 **sakibul009/sakibul009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
