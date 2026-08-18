@@ -33,6 +33,7 @@ Cross-browser compatibility is currently under review and testing.
 * Feature 3: Real-time data tracking and automated analytics.
 * Feature 4: Comprehensive error logging and debugging tools.
 ## 👥 Contribution & Collaboration
+Once published, this project will be open for public contributions.
 <!--
 **sakibul009/sakibul009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
