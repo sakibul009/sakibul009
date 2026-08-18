@@ -11,6 +11,7 @@ I want to make sure that the user experience is smooth and flawless.
 The initial test results are looking highly positive and encouraging.
 I am also fine-tuning the design and overall presentation.
 Every little detail is being carefully checked before the big day.
+The official launch and publication are happening very shortly.
 <!--
 **sakibul009/sakibul009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
