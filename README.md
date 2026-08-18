@@ -3,6 +3,7 @@
 This is my first commit to complete the GitHub activity requirement.
 I am still testing.
 ## 🌟 Exciting Project Update
+I am thrilled to announce that I am currently working on a brand new project.
 <!--
 **sakibul009/sakibul009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
