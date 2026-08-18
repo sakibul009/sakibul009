@@ -4,6 +4,7 @@ This project is designed to bring a creative and innovative solution.
 I have been planning and developing this idea for quite some time.
 My main goal is to create something genuinely useful and high-quality.
 Currently, the core development phase is successfully completed.
+Now, the project has officially entered the intensive testing phase.
 <!--
 **sakibul009/sakibul009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
