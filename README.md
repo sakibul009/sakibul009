@@ -38,6 +38,7 @@ Developers of all skill levels are welcome to report bugs or suggest features.
 A detailed contributing guideline file will be added to the repository.
 I am also looking forward to collaborating with other open-source enthusiasts.
 ## 📆 Expected Release Timeline
+The Alpha version is expected to be rolled out by the end of this year.
 <!--
 **sakibul009/sakibul009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
