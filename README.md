@@ -44,6 +44,7 @@ The stable, production-ready version 1.0 will be deployed shortly.
 I will update the live deployment link right here in this README file.
 ---
 # ❤️ Acknowledgements
+Special thanks to everyone who provided early feedback during the concept phase.
 <!--
 **sakibul009/sakibul009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
