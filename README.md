@@ -35,6 +35,7 @@ Cross-browser compatibility is currently under review and testing.
 ## 👥 Contribution & Collaboration
 Once published, this project will be open for public contributions.
 Developers of all skill levels are welcome to report bugs or suggest features.
+A detailed contributing guideline file will be added to the repository.
 <!--
 **sakibul009/sakibul009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
