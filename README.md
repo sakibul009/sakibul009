@@ -34,6 +34,7 @@ Cross-browser compatibility is currently under review and testing.
 * Feature 4: Comprehensive error logging and debugging tools.
 ## 👥 Contribution & Collaboration
 Once published, this project will be open for public contributions.
+Developers of all skill levels are welcome to report bugs or suggest features.
 <!--
 **sakibul009/sakibul009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
